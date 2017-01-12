@@ -1,5 +1,5 @@
 # stuff
-Just various stuff\n
-These are some test edits\n
-These are some more edits\n
-Even more edits
+Just various stuff
+These are some test edits
+These are some more edits
+Even more edit
